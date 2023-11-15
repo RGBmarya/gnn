@@ -1,6 +1,6 @@
 **Graph Classification - Tox21 Dataset**
 
-A foray into all things GNN (with a little bit of ~personality~)
+A foray into all things GNN (with a little bit of \~personality\~)
 
 Goals:
 - Learn handle graph data (Deepchem already contains the dataset)
